@@ -1,2 +1,4 @@
 # hello-world
-Just another respository
+
+Learning different programming langauges and utilizing new resources.
+I plan to make the most of this space.
